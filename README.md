@@ -1,11 +1,11 @@
 # ForwardingDNS
 
-/etc/named.conf
-/etc/named.rfc1912.zones
+* /etc/named.conf
+* /etc/named.rfc1912.zones
 
-/var/named/example.zone
-/var/named/example.rev
-/var/named/test.zone
+* /var/named/example.zone
+* /var/named/example.rev
+* /var/named/test.zone
 
-/etc/resolv.conf
+* /etc/resolv.conf
 
