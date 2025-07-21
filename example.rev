@@ -1,0 +1,11 @@
+$TTL 4
+@       IN SOA  ns1.example.com. root.example.com. (
+                                        10      ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+
+;; (0) DNS Server
+                IN  NS          ns1.example.com.
+20              IN  PTR         ns1.example.com.
